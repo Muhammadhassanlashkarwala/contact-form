@@ -21,7 +21,7 @@ html, body{
     padding-top: 2.5vw;
     font-family: "Raleway", serif;
     font-optical-sizing: auto;
-    font-weight: bold;
+    font-weight: 800;
     font-style: normal;
     text-align: center;
     width: 16vw;
@@ -48,10 +48,13 @@ html, body{
     font-size: 36px;
     margin-top: 7vw;
     margin-bottom: 26px;
+    font-weight: 600;
     color: black;
     letter-spacing: 2px;
 }
 .text h5{
     color: #999999;
-    
+    font-style: italic;
+    font-size: 14px;
+    font-weight: 400;
 }
