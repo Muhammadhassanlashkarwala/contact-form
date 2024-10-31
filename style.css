@@ -58,3 +58,102 @@ html, body{
     font-size: 14px;
     font-weight: 400;
 }
+.container-1{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 5vw;
+  margin-left: 9.5vw;
+}
+.container-1 input{
+    width: 270px;
+    padding: 1.2vw 2vw;
+    border: none;
+    margin: 1vw 0.8vw;
+    background: #F6F6F6;
+}
+.container-1 input:focus{
+  border: 1px solid #00B371;
+  outline: none;
+}
+.container-1 button{
+    width: 570px;
+    padding: 1.2vw 2vw;
+    margin-top: 1.2vw;
+    outline: none;
+    border: none;
+    color: white;
+    background: #00B371;
+}
+.container-1 button:hover{
+    color: #00B371 ;
+    border: 1px solid #00B371;
+    background: white;
+    cursor: pointer;
+}
+.container-2{
+    margin-right: 9.5vw;
+}
+.container-2 input{
+    width: 600px;
+    height: 225px;
+    padding: 1vw 3vw;
+    border: none;
+    /* margin: 1vw 0.8vw; */
+    background: #F6F6F6;
+    color: black;
+    padding-bottom: 150px;
+    /* padding-right: 20px; */
+}
+.grey::placeholder{
+    font-size: 1.1vw;
+}
+.black::placeholder{
+    color: black;
+    font-size: 1.1vw;
+}
+.container-3{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5vw;
+    margin-left: 4vw;
+  }
+  .container-4{
+    margin-right: 6vw;
+    text-align: left;
+    font-size: large;
+    color: black;
+    font-weight: 500;
+    line-height: 1.8vw;
+  }
+  .container-4 span{
+    color: grey;
+  }
+  .footer{
+    background: #151517;
+    height: 80vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    font-size: 1vw;
+    text-align: left;
+    padding-top: 8vw;
+    padding-left: 8vw;
+    padding-right: 14vw;
+  }
+  .about h1{
+    font-size: 1.4vw;
+    margin-bottom: 1.8vw;
+  }
+  .about p{
+   font-size: 1vw;
+   line-height: 2vw;
+  }
+  .about-1 h1{
+    font-size: 1.4vw;
+    margin-bottom: 1.8vw;
+  }
+  .about-1 p{
+    font-size: 1vw;
+    line-height: 2.6vw;
+  }
