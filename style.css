@@ -130,7 +130,7 @@ html, body{
   }
   .footer{
     background: #151517;
-    height: 80vh;
+    height: 55vh;
     width: 100%;
     display: flex;
     justify-content: space-around;
@@ -138,8 +138,8 @@ html, body{
     font-size: 1vw;
     text-align: left;
     padding-top: 8vw;
-    padding-left: 8vw;
-    padding-right: 14vw;
+    padding-left: 3vw;
+    padding-right: 6vw;
   }
   .about h1{
     font-size: 1.4vw;
