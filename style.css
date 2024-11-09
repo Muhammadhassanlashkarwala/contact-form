@@ -9,6 +9,10 @@ html, body{
  height: 100%;
  width: 100%;
 }
+/* .container
+{
+height: 20vh;
+}
 .bg-image{
     background-image: url(image/form.jpg);
     height: 52vh;
@@ -17,7 +21,6 @@ html, body{
 }
 .child{
     background: #00B371;
-    /* padding: 2vw; */
     padding-top: 2.5vw;
     font-family: "Raleway", serif;
     font-optical-sizing: auto;
@@ -33,7 +36,7 @@ html, body{
 }
 .child h1{
     font-size: 2.2vw;
-}
+} */
 .container{
     height: 100vh;
     width: 100%;
@@ -46,7 +49,7 @@ html, body{
 }
 .text h1{
     font-size: 36px;
-    margin-top: 7vw;
+    margin-top: 2vw;
     margin-bottom: 26px;
     font-weight: 600;
     color: black;
